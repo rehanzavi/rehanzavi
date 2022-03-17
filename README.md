@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rehan P Zavi</h1>
 <h3 align="center">Final year engineering student</h3>
 
-- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **rehanzavi@gmail.com**
 
