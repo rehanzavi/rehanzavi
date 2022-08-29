@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan P Zavi</h1>
-<h3 align="center">Final year engineering student</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 - 📫 How to reach me **rehanzavi@gmail.com**
